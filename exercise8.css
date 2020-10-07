@@ -1,6 +1,8 @@
 /* Use display, justify-content, align-items and align-content to solve this */
 
 #e8 .container {
+    display: flex;
+    flex-direction: row;
     height: 200px;
     width: 200px;
 }
