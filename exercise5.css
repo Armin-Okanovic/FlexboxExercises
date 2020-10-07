@@ -1,7 +1,10 @@
 /* Use display, flex-wrap, justify-content and align-content to solve this */
 
 #e5 .container {
-    height: 500px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-content: space-around;
     width: 1000px;
 }
 
